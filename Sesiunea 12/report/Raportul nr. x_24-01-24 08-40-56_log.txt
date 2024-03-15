@@ -1,0 +1,14 @@
+2024-01-24 20:41:02.252435 : Alert showed the following message I am a JS Alert
+2024-01-24 20:41:02.265178 : Clicked on the OK button in the Alert window.
+2024-01-24 20:41:11.388268 : Alert show the following message : I am a JS Confirm
+2024-01-24 20:41:12.399572 : Clicked on the CANCEL button in the Alert window.
+2024-01-24 20:41:20.467887 : Alert show the following message : I am a JS Confirm
+2024-01-24 20:41:21.488144 : Clicked on the OK button in the Alert window.
+2024-01-24 20:41:29.477210 : Alert show the following message : I am a JS prompt
+2024-01-24 20:41:31.490042 : Clicked on the OK button in the Alert window.
+2024-01-24 20:41:41.820936 : Am sters 0 litera.
+2024-01-24 20:41:42.866152 : Am sters 1 litera.
+2024-01-24 20:41:43.905844 : Am sters 2 litera.
+2024-01-24 20:41:44.947543 : Am sters 3 litera.
+2024-01-24 20:41:45.993160 : Am sters 4 litera.
+2024-01-24 20:42:29.488749 : Assert True a fost corect.
